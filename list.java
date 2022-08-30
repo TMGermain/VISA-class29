@@ -3,3 +3,6 @@ simon
 marie
 germain
 dominion
+ec2-user
+lucie
+praise
